@@ -23,7 +23,9 @@ function App() {
     return (
         <div className="App">
             <header>
-                <Header/>
+                <div>
+                    <Header/>
+                </div>
             </header>
             <Homepage/>
             <Particles
@@ -91,7 +93,7 @@ function App() {
                 }}
             />
         </div>
-)
+    )
 }
 
 export default App
