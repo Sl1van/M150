@@ -1,0 +1,9 @@
+.homepage {
+    position: absolute;
+    z-index: 1;
+}
+
+.card-section {
+    margin-left: 15%;
+    margin-right: 15%;
+}
