@@ -1,0 +1,17 @@
+.card-container {
+  width: 250px;
+  height: 300px;
+  background: #d3d3d3;
+  border-radius: 10px;
+  filter: drop-shadow(4px 4px 8px rgba(0, 8, 9, 0.5));
+}
+
+.image-container {
+  width: 250px;
+  height: 200px;
+  background: white;
+}
+
+.image-placeholder {
+  border-radius: 10px;
+}
