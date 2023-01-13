@@ -38,3 +38,22 @@
   justify-content: space-between;
   align-items: center;
 }
+
+.button {
+  background: #3b6069;
+  border: none;
+  color: white;
+  font-family: "Proxima Nova", serif;
+  width: 35%;
+  border-radius: 5px;
+}
+
+button:hover {
+  background: #507e8a;
+  transition: 0.2s;
+}
+
+button:active {
+  background: #a1ddec;
+  transition: 0.15s;
+}

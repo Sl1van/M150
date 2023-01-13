@@ -17,7 +17,7 @@ function Card() {
                 </div>
                 <div className="next-eachOther">
                     <p className="text-style">[Price]</p>
-                    <button>Rent Me</button>
+                    <button className="button">Rent Me</button>
                 </div>
             </div>
 
